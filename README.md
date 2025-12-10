@@ -69,5 +69,3 @@
 📍 **Location:** Tiruppur District, Tamil Nadu, India  
 
 ---
-
-⭐ **If you like my work, consider giving a star to my repositories!**
