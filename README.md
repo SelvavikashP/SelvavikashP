@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 My other profilea  
 <p align="left">
 
 <a href="https://www.linkedin.com/in/selva-vikash-p-0422692a6/" target="_blank">
@@ -43,7 +43,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,python,java,git,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,python,java,git,vscode&perline=8" />
 </p>
 
 ---
