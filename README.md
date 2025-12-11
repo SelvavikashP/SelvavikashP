@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm <strong>Selvavikash P</strong></h1>
+<h1 align="center">Hi , I'm <strong>Selvavikash P</strong></h1>
 <h3 align="center">Full-Stack Developer | Frontend Developer | AI Enthusiast</h3>
 
 ---
 
-## 🌟 About Me  
-- 🔭 Working on **AI Projects**  
-- 🌱 Learning **React & SQL**  
-- 🤝 Open to collaborating on **AI & Full-Stack Projects**  
-- 👨‍💻 All my projects: **https://github.com/selvavikashp**  
-- 📫 Email: **selvavikash2005@gmail.com**  
-- 📄 Resume:  
+##  About Me  
+-  Working on **AI Projects**  
+-  Learning **React & SQL**  
+-  Open to collaborating on **AI & Full-Stack Projects**  
+-  All my projects: **https://github.com/selvavikashp**  
+-  Email: **selvavikash2005@gmail.com**  
+-  Resume:  
   **https://drive.google.com/file/d/19FiMdwf3IzJ6exq1tmmAe4ypjasXy8rv/view**
 
 ---
 
-## 🌐 My other profilea  
+##  My other profilea  
 <p align="left">
 
 <a href="https://www.linkedin.com/in/selva-vikash-p-0422692a6/" target="_blank">
@@ -48,15 +48,15 @@
 
 ---
 
-## 🚀 Projects  
-- 🧮 **Simple Calculator** – Basic arithmetic operations  
-- 🎓 **School & College Management System**  
-- 🔌 **Wiring Estimator Tool**  
-- 🤖 **Intelligent Hiring Recommendation System (AI)**  
+##  Projects  
+-  **Simple Calculator** – Basic arithmetic operations  
+-  **School & College Management System**  
+-  **Wiring Estimator Tool**  
+-  **Intelligent Hiring Recommendation System (AI)**  
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvavikashp&theme=tokyonight" height="170" />
 </p>
