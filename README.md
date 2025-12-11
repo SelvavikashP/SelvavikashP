@@ -1,13 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Selvavikash+P;Full+Stack+Developer;Frontend+Developer;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Selva+vikash+P;Full+Stack+Developer;Frontend+Developer" />
 </h1>
 
 ---
 
-## 🚀 About Me  
--  Working on **AI Projects**  
+##  About Me    
 -  Learning **React & SQL**  
--  Open to collaborating on **AI & Full-Stack Projects**  
+-  Open to collaborating on **Full-Stack Projects**  
 -  All my projects: **https://github.com/selvavikashp**  
 -  Email: **selvavikash2005@gmail.com**  
 -  Resume:  
@@ -15,7 +14,7 @@
 
 ---
 
-## 🌐 My Other Profiles  
+##  My Other Profiles  
 <p align="left">
 
 <a href="https://www.linkedin.com/in/selva-vikash-p-0422692a6/" target="_blank">
@@ -42,14 +41,14 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+##  Languages & Tools  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,python,java,git,vscode&perline=8" />
 </p>
 
 ---
 
-## 📂 Projects  
+##  Projects  
 - **Simple Calculator** – Basic arithmetic operations  
 - **School & College Management System**  
 - **Wiring Estimator Tool**  
@@ -57,28 +56,28 @@
 
 ---
 
-## 🔥 GitHub Stats  
+##  GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=selvavikashp&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160" />
 </p>
 
 ---
 
-## 🌀 Animated GitHub Contribution Graph  
+##  Animated GitHub Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=selvavikashp&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## ⚡ Floating Tech Icons  
+##  Floating Tech Icons  
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 📬 Contact  
-📧 **Email:** selvavikash2005@gmail.com  
-📞 **Phone:** 8940105504  
-📍 **Location:** Tiruppur District, Tamil Nadu, India  
+##  Contact  
+ **Email:** selvavikash2005@gmail.com  
+ **Phone:** 8940105504  
+ **Location:** Tiruppur District, Tamil Nadu, India  
