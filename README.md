@@ -11,7 +11,7 @@
 - All my projects: **https://github.com/selvavikashp**  
 - Email: **selvavikash2005@gmail.com**  
 - Resume:  
-  **https://drive.google.com/file/d/19FiMdwf3IzJ6exq1tmmAe4ypjasXy8rv/view**
+  **https://drive.google.com/file/d/14hC8aCs4yoNul3f-4Mh0iuzUSxp4Kdxk/view?usp=drive_link**
 
 ---
 
