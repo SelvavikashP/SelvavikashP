@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Selva+vikash+P;Full+Stack+Developer;Frontend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Selva+vikash+P;Competitive+Programmer;Logical+Thinker" />
 </h1>
-
----
 
 ##  About Me:
 - Working on **AI Projects**  
@@ -13,7 +11,7 @@
 - Resume:  
   **https://drive.google.com/file/d/1uia8PfP_b4yuR5g9zHyn6eYr-s5_Dq_r/view?usp=drive_link**
 
----
+
 
 ##  My Other Profiles:
 <p align="left">
