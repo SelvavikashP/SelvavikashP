@@ -64,15 +64,6 @@
 
 ---
 
-##  Animated GitHub Contribution Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selvavikashp&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-
 ##  Contact:
 
  **Email:** selvavikash2005@gmail.com  
